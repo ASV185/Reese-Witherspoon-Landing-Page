@@ -1,0 +1,37 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+nav .navbar-brand {
+  font-size: 45px;
+  font-family: "Diphylleia", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+nav .nav-link {
+  font-size: 30px;
+  font-family: "Diphylleia", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(12, 52, 30, 0.4), rgba(0, 0, 0, 0.6)),
+    url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/114/505/original/Reese-witherspoon-2.jpg?1707433392);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 350px 0;
+  color: white;
+  text-transform: uppercase;
+}
+
+.reese-witherspoon-heading h1 {
+  font-size: 120px;
+  font-family: "Diphylleia", serif;
+  font-weight: 500;
+  font-style: normal;
+}
