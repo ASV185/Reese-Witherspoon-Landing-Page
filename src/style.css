@@ -50,11 +50,12 @@ nav .nav-link {
   font-style: normal;
 }
 
-.social-media-section .social-media {
+.social-media-section .social-media a {
   font-size: 20px;
+  color: white;
 }
 
-.social-media-section .social-media:hover {
+.social-media-section .social-media a:hover {
   cursor: pointer;
   color: black;
 }
