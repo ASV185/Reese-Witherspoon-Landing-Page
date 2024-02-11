@@ -113,3 +113,20 @@ nav .nav-link {
 .bio-section-heading {
   margin: 120px;
 }
+
+.HelloSunshine-img-logo-section {
+  padding: 100px;
+}
+
+.HelloSunshine-section {
+  font-size: 27px;
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.HelloSunshine-section small {
+  font-size: 21px;
+  margin: 40px;
+}
