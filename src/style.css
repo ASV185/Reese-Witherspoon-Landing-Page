@@ -130,3 +130,20 @@ nav .nav-link {
   font-size: 21px;
   margin: 40px;
 }
+
+.feature-trailers-section {
+  background-color: #064535;
+  font-family: "Diphylleia", serif;
+}
+
+.feature-trailers {
+  margin: 100px;
+}
+
+.video {
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 10px;
+}
