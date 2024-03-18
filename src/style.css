@@ -147,3 +147,26 @@ nav .nav-link {
   aspect-ratio: 16/9;
   border-radius: 10px;
 }
+
+.clothing-section {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/119/556/original/green-flowers.jpg?1710721904);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 350px 0;
+}
+
+.clothing-section-paragraph {
+  background-color: #064535;
+  font-family: "Diphylleia", serif;
+  border-radius: 5px;
+}
+
+.clothing-section-paragraph small {
+  font-size: 23px;
+}
+
+.clothing-section-paragraph .quote-name {
+  font-size: 20px;
+}
