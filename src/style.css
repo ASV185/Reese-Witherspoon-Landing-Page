@@ -170,3 +170,12 @@ nav .nav-link {
 .clothing-section-paragraph .quote-name {
   font-size: 20px;
 }
+
+.articles-section {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/119/744/original/3d-flowers.jpg?1710816865);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 300px 30px;
+}
