@@ -171,6 +171,14 @@ nav .nav-link {
   font-size: 20px;
 }
 
+.reese-book-club-section {
+  background-color: #001c34;
+}
+
+.reese-book-club-section h2 {
+  font-family: "Diphylleia", serif;
+}
+
 .articles-section {
   background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/119/744/original/3d-flowers.jpg?1710816865);
   background-size: cover;
