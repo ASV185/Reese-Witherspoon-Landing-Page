@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reese Witherspoon</title>
-    <link rel="stylesheet" href="src/style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,6 +19,226 @@
     <link href="https://fonts.googleapis.com/css2?family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap"
         rel="stylesheet">
 </head>
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    nav .navbar-brand {
+        font-size: 45px;
+        font-family: "Diphylleia", serif;
+        font-weight: 600;
+        font-style: normal;
+    }
+
+    nav .navbar-brand:hover {
+        color: #064535;
+        font-weight: 700;
+        text-shadow: 2px 2px 5px white;
+        transform: scale(1.1);
+    }
+
+    nav .nav-link {
+        font-size: 30px;
+        font-family: "Diphylleia", serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .hero {
+        background-image: linear-gradient(rgba(12, 52, 30, 0.4), rgba(0, 0, 0, 0.6)),
+            url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/114/505/original/Reese-witherspoon-2.jpg?1707433392);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 350px 0;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .reese-witherspoon-heading h1 {
+        font-size: 120px;
+        font-family: "Diphylleia", serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .reese-witherspoon-heading small {
+        font-size: 45px;
+        font-family: "Diphylleia", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .social-media-section .social-media a {
+        font-size: 20px;
+        color: white;
+    }
+
+    .social-media-section .social-media a:hover {
+        cursor: pointer;
+        color: black;
+    }
+
+    .quote {
+        background-color: #064535;
+        padding: 250px 0;
+        font-family: "EB Garamond", serif;
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .quote h2 {
+        font-size: 50px;
+    }
+
+    .quote small {
+        font-size: 30px;
+    }
+
+    .bio-section {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)),
+            url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/114/685/original/Reese-witherspoon-3.jpg?1707507582);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: left;
+        padding: 350px 0;
+        color: black;
+        text-transform: uppercase;
+    }
+
+    .bio-section-heading {
+        background-color: white;
+        border-radius: 5px;
+        text-shadow: 1px 2px 5px white;
+    }
+
+    .bio-section h2 {
+        font-size: 60px;
+        font-family: "Simonetta", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .bio-section p {
+        font-size: 20px;
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+    .bio-section-heading {
+        margin: 120px;
+    }
+
+    .HelloSunshine-img-logo-section {
+        padding: 100px;
+    }
+
+    .HelloSunshine-section {
+        font-size: 27px;
+        font-family: "EB Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .HelloSunshine-section small {
+        font-size: 21px;
+        margin: 40px;
+    }
+
+    .feature-trailers-section {
+        background-color: #064535;
+        font-family: "Diphylleia", serif;
+    }
+
+    .feature-trailers {
+        margin: 100px;
+    }
+
+    .video {
+        max-width: 900px;
+        margin: 0 auto;
+        width: 100%;
+        aspect-ratio: 16/9;
+        border-radius: 10px;
+    }
+
+    .clothing-section {
+        background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/119/556/original/green-flowers.jpg?1710721904);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 350px 0;
+    }
+
+    .clothing-section-paragraph {
+        background-color: #064535;
+        font-family: "Diphylleia", serif;
+        border-radius: 5px;
+    }
+
+    .clothing-section-paragraph small {
+        font-size: 23px;
+    }
+
+    .clothing-section-paragraph .quote-name {
+        font-size: 20px;
+    }
+
+    .reese-book-club-section {
+        background-color: #001c34;
+    }
+
+    .reese-book-club-section h2 {
+        font-family: "Diphylleia", serif;
+    }
+
+    .reese-book-club-section a {
+        color: white;
+        border: 2px solid white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+
+    .articles-section {
+        background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/119/744/original/3d-flowers.jpg?1710816865);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-align: center;
+        padding: 300px 30px;
+    }
+
+    .my-social-media-section {
+        background-color: #064535;
+        padding: 100px;
+    }
+
+    .my-social-media-section h2 {
+        font-family: "Diphylleia", serif;
+    }
+
+    .my-social-media-section .github:hover {
+        transform: scale(1.2);
+    }
+
+    .my-social-media-section .linkedin:hover {
+        transform: scale(1.2);
+    }
+
+    footer {
+        font-size: 15px;
+        font-family: "EB Garamond", serif;
+    }
+</style>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark shadow-5-strong position-absolute mx-4">
