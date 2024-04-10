@@ -183,7 +183,6 @@ nav .nav-link {
   color: white;
   border: 2px solid white;
   text-decoration: none;
-
   border-radius: 5px;
 }
 
@@ -194,4 +193,18 @@ nav .nav-link {
   background-repeat: no-repeat;
   text-align: center;
   padding: 300px 30px;
+}
+
+.my-social-media-section {
+  background-color: #064535;
+  padding: 100px;
+}
+
+.my-social-media-section h2 {
+  font-family: "Diphylleia", serif;
+}
+
+footer {
+  font-size: 15px;
+  font-family: "EB Garamond", serif;
 }
