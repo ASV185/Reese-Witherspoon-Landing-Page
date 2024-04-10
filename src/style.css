@@ -204,6 +204,14 @@ nav .nav-link {
   font-family: "Diphylleia", serif;
 }
 
+.my-social-media-section .github:hover {
+  transform: scale(1.2);
+}
+
+.my-social-media-section .linkedin:hover {
+  transform: scale(1.2);
+}
+
 footer {
   font-size: 15px;
   font-family: "EB Garamond", serif;
