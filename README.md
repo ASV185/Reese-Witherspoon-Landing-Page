@@ -1,8 +1,8 @@
 # Reese-Witherspoon-Landing-Page
  ![reese-witherspoon-website-1](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/9f87625f-f6a5-438b-9198-0378ed72214d)
 ![reese-witherspoon-website-2](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/db891458-ae3f-44e1-b425-35efe1d9a6d7)
-![reese-witherspoon-website-3](https://github.com/ASV1![reese-witherspoon-website-4](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/9a5f8951-c861-452a-8e5b-9c3e7cbd48ef)
-85/Reese-Witherspoon-Landing-Page/assets/74805696/8dfa1d0c-356c-440d-ac92-3b80b7f9b242)
+![reese-witherspoon-website-3](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/00f13f70-8b59-4bb0-8de2-a046f116f23a)
+![reese-witherspoon-website-4](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/597aad0f-0587-4679-b5c9-0f83fb6b7387)
 ![reese-witherspoon-website-5](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/4be2ca58-dac3-4d4c-a68f-cce378600a3c)
 ![reese-witherspoon-website-6](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/0a405def-dafc-4458-9003-8c4cdf33fac8)
 ![reese-witherspoon-website-7](https://github.com/ASV185/Reese-Witherspoon-Landing-Page/assets/74805696/10ba01ac-d77b-462f-bd52-07ca4b393ec9)
